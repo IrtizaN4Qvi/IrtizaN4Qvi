@@ -3,6 +3,8 @@
 Entrepreneurship in the Tech Industry. 
 - 🌱 I’m currently learning computer scinces from FAST
 - 📫 How to reach me: irtiza.naqvi.04@gmail.com
+
+
 ![this picture is a picture of me](blob:https://web.whatsapp.com/2a3bdd3c-1872-4b8a-b3a4-a81fdc4a0b65)
 
 <!---
